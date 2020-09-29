@@ -12,4 +12,3 @@
 <br />
 <br />
 ---
-[twitter]: https://twitter.com/ImRo0T
